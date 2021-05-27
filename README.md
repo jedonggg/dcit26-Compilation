@@ -7,7 +7,6 @@ Emerging Technologies
 * https://snack.expo.io/@jeddualan/lab2
 * https://snack.expo.io/@jeddualan/lab3
 * https://snack.expo.io/@jeddualan/lab4
-* https://snack.expo.io/@jeddualan/lab5
 * https://snack.expo.io/@jeddualan/lab6
 
 ## Members (BSCS 3‐2)
