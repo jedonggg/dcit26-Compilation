@@ -10,6 +10,6 @@ Emerging Technologies
 * https://snack.expo.io/@jeddualan/lab6
 
 ## Members (BSCS 3‐2)
-* Aycardo, Kenneth Brian A.
+* Aycardo, Kenneth Bryan A.
 * Castillon, Charles Jefferson S.
 * Dualan, Jaynyl Edrielle M.
