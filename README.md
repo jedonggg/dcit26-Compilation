@@ -3,12 +3,12 @@ A compilation of React Native examples for the course DCIT 26 – Application De
 Emerging Technologies
 
 ## Snacks
-* https://snack.expo.io/@username/lab1
-* https://snack.expo.io/@username/lab2
-* https://snack.expo.io/@username/lab3
-* https://snack.expo.io/@username/lab4
-* https://snack.expo.io/@username/lab5
-* https://snack.expo.io/@username/lab6
+* https://snack.expo.io/@jeddualan/lab1
+* https://snack.expo.io/@jeddualan/lab2
+* https://snack.expo.io/@jeddualan/lab3
+* https://snack.expo.io/@jeddualan/lab4
+* https://snack.expo.io/@jeddualan/lab5
+* https://snack.expo.io/@jeddualan/lab6
 
 ## Members (BSCS 3‐2)
 * Aycardo, Kenneth Brian A.
